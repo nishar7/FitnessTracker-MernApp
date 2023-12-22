@@ -2,6 +2,8 @@
 
 
  **How the web application works**
+
+ 
 This single page application uses the MongoDB, Express, React, and Node (MERN)
 Stack to implement a REST API and a graphical interface for logging Fitness Web App.
 The home page greets the user with a table of past exercises. An exercise can
